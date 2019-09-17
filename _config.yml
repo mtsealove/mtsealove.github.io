@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "mtsealove"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "개발&삽질 블로그입니다"
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "mtsealove0927@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
